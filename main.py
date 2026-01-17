@@ -1,12 +1,10 @@
-#!/usr/bin/env python
-"""Main entry point."""
-import sys
-sys.path.append('worldcup_pkg')
-from worldcup_pkg import load_worldcup_data, build_match_features, train_models
+# One-command run: python main.py
 
-# Full pipeline
-wc = load_worldcup_data()
-intl = load_international_data()
-features = build_match_features(wc, intl)
-models = train_models(features[FEATURE_COLS], features['home_win'])
-print("Models trained!")
+from src.data_loader import load_all_data
+from src.feature_engineering import create_features
+from src.prediction import predict_2026
+
+data = load_all_data()
+features = create_features(data)
+predictions = predict_2026(features)
+predictions.to_csv("data/processed/2026_predictions.csv")

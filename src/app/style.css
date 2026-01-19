@@ -1,0 +1,24 @@
+/*
+src/app/style.css
+
+Lightweight app styling.
+
+Design goal:
+- Keep styling minimal and readable for a school project.
+- Avoid fragile selectors so upgrades to Streamlit won’t break the layout.
+
+Inputs:
+- Loaded by app.py via an injected <style> tag.
+
+Outputs:
+- Slightly improved spacing and typography.
+*/
+
+.block-container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+h1, h2, h3 {
+  letter-spacing: 0.2px;
+}

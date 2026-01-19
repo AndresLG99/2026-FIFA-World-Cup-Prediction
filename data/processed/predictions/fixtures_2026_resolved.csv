@@ -1,0 +1,105 @@
+date,home_team,away_team,home_score,away_score,tournament,country,neutral
+2026-06-11,Mexico,South Africa,,,World Cup,Mexico,False
+2026-06-11,South Korea,Denmark,,,World Cup,Mexico,True
+2026-06-12,Canada,Italy,,,World Cup,Canada,False
+2026-06-12,United States,Paraguay,,,World Cup,USA,False
+2026-06-13,Haiti,Scotland,,,World Cup,USA,True
+2026-06-13,Australia,Turkey,,,World Cup,Canada,True
+2026-06-13,Brazil,Morocco,,,World Cup,USA,True
+2026-06-13,Qatar,Switzerland,,,World Cup,USA,True
+2026-06-14,Ivory Coast,Ecuador,,,World Cup,USA,True
+2026-06-14,Germany,Curaçao,,,World Cup,USA,True
+2026-06-14,Netherlands,Japan,,,World Cup,USA,True
+2026-06-14,Ukraine,Tunisia,,,World Cup,Mexico,True
+2026-06-15,Saudi Arabia,Uruguay,,,World Cup,USA,True
+2026-06-15,Spain,Cape Verde,,,World Cup,USA,True
+2026-06-15,Iran,New Zealand,,,World Cup,USA,True
+2026-06-15,Belgium,Egypt,,,World Cup,USA,True
+2026-06-16,France,Senegal,,,World Cup,USA,True
+2026-06-16,Iraq,Norway,,,World Cup,USA,True
+2026-06-16,Argentina,Algeria,,,World Cup,USA,True
+2026-06-16,Austria,Jordan,,,World Cup,USA,True
+2026-06-17,Ghana,Panama,,,World Cup,Canada,True
+2026-06-17,England,Croatia,,,World Cup,USA,True
+2026-06-17,Portugal,DR Congo,,,World Cup,USA,True
+2026-06-17,Uzbekistan,Colombia,,,World Cup,Mexico,True
+2026-06-18,Denmark,South Africa,,,World Cup,USA,True
+2026-06-18,Switzerland,Italy,,,World Cup,USA,True
+2026-06-18,Canada,Qatar,,,World Cup,Canada,False
+2026-06-18,Mexico,South Korea,,,World Cup,Mexico,False
+2026-06-19,Brazil,Haiti,,,World Cup,USA,True
+2026-06-19,Scotland,Morocco,,,World Cup,USA,True
+2026-06-19,Turkey,Paraguay,,,World Cup,USA,True
+2026-06-19,United States,Australia,,,World Cup,USA,False
+2026-06-20,Germany,Ivory Coast,,,World Cup,Canada,True
+2026-06-20,Ecuador,Curaçao,,,World Cup,USA,True
+2026-06-20,Netherlands,Ukraine,,,World Cup,USA,True
+2026-06-20,Tunisia,Japan,,,World Cup,Mexico,True
+2026-06-21,Uruguay,Cape Verde,,,World Cup,USA,True
+2026-06-21,Spain,Saudi Arabia,,,World Cup,USA,True
+2026-06-21,Belgium,Iran,,,World Cup,USA,True
+2026-06-21,New Zealand,Egypt,,,World Cup,Canada,True
+2026-06-22,Norway,Senegal,,,World Cup,USA,True
+2026-06-22,France,Iraq,,,World Cup,USA,True
+2026-06-22,Argentina,Austria,,,World Cup,USA,True
+2026-06-22,Jordan,Algeria,,,World Cup,USA,True
+2026-06-23,England,Ghana,,,World Cup,USA,True
+2026-06-23,Panama,Croatia,,,World Cup,Canada,True
+2026-06-23,Portugal,Uzbekistan,,,World Cup,USA,True
+2026-06-23,Colombia,DR Congo,,,World Cup,Mexico,True
+2026-06-24,Scotland,Brazil,,,World Cup,USA,True
+2026-06-24,Morocco,Haiti,,,World Cup,USA,True
+2026-06-24,Switzerland,Canada,,,World Cup,Canada,False
+2026-06-24,Italy,Qatar,,,World Cup,USA,True
+2026-06-24,Denmark,Mexico,,,World Cup,Mexico,False
+2026-06-24,South Africa,South Korea,,,World Cup,Mexico,True
+2026-06-25,Curaçao,Ivory Coast,,,World Cup,USA,True
+2026-06-25,Ecuador,Germany,,,World Cup,USA,True
+2026-06-25,Japan,Ukraine,,,World Cup,USA,True
+2026-06-25,Tunisia,Netherlands,,,World Cup,USA,True
+2026-06-25,Turkey,United States,,,World Cup,USA,False
+2026-06-25,Paraguay,Australia,,,World Cup,USA,True
+2026-06-26,Norway,France,,,World Cup,USA,True
+2026-06-26,Senegal,Iraq,,,World Cup,Canada,True
+2026-06-26,Egypt,Iran,,,World Cup,USA,True
+2026-06-26,New Zealand,Belgium,,,World Cup,Canada,True
+2026-06-26,Cape Verde,Saudi Arabia,,,World Cup,USA,True
+2026-06-26,Uruguay,Spain,,,World Cup,Mexico,True
+2026-06-27,Panama,England,,,World Cup,USA,True
+2026-06-27,Croatia,Ghana,,,World Cup,USA,True
+2026-06-27,Algeria,Austria,,,World Cup,USA,True
+2026-06-27,Jordan,Argentina,,,World Cup,USA,True
+2026-06-27,Colombia,Portugal,,,World Cup,USA,True
+2026-06-27,DR Congo,Uzbekistan,,,World Cup,USA,True
+2026-06-28,Group A Runners Up,Group B Runners Up,,,World Cup,USA,True
+2026-06-29,Group E Winners,Group A/B/C/D/F 3rd Place,,,World Cup,USA,True
+2026-06-29,Group F Winners,Group C Runners Up,,,World Cup,Mexico,True
+2026-06-29,Group C Winners,Group F Runners Up,,,World Cup,USA,True
+2026-06-30,Group I Winners,Group C/D/F/G/H 3rd Place,,,World Cup,USA,True
+2026-06-30,Group E Runners Up,Group I Runners Up,,,World Cup,USA,True
+2026-06-30,Group A Winners,Group C/E/F/H/I 3rd Place,,,World Cup,Mexico,True
+2026-07-01,Group L Winners,Group E/H/I/J/K 3rd Place,,,World Cup,USA,True
+2026-07-01,Group D Winners,Group B/E/F/I/J 3rd Place,,,World Cup,USA,True
+2026-07-01,Group G Winners,Group A/E/H/I/J 3rd Place,,,World Cup,USA,True
+2026-07-02,Group K Runners Up,Group L Runners Up,,,World Cup,Canada,True
+2026-07-02,Group H Winners,Group J Runners Up,,,World Cup,USA,True
+2026-07-02,Group B Winners,Group E/F/G/I/J 3rd Place,,,World Cup,Canada,True
+2026-07-03,Group J Winners,Group H Runners Up,,,World Cup,USA,True
+2026-07-03,Group K Winners,Group D/E/I/J/L 3rd Place,,,World Cup,USA,True
+2026-07-03,Group D Runners Up,Group G Runners Up,,,World Cup,USA,True
+2026-07-04,Match 74 Winner,Match 77 Winner,,,World Cup,USA,True
+2026-07-04,Match 73 Winner,Match 75 Winner,,,World Cup,USA,True
+2026-07-05,Match 76 Winner,Match 78 Winner,,,World Cup,USA,True
+2026-07-05,Match 79 Winner,Match 80 Winner,,,World Cup,Mexico,True
+2026-07-06,Match 83 Winner,Match 84 Winner,,,World Cup,USA,True
+2026-07-06,Match 81 Winner,Match 82 Winner,,,World Cup,USA,True
+2026-07-07,Match 86 Winner,Match 88 Winner,,,World Cup,USA,True
+2026-07-07,Match 85 Winner,Match 87 Winner,,,World Cup,Canada,True
+2026-07-09,Match 89 Winner,Match 90 Winner,,,World Cup,USA,True
+2026-07-10,Match 93 Winner,Match 94 Winner,,,World Cup,USA,True
+2026-07-11,Match 91 Winner,Match 92 Winner,,,World Cup,USA,True
+2026-07-11,Match 95 Winner,Match 96 Winner,,,World Cup,USA,True
+2026-07-14,Match 97 Winner,Match 98 Winner,,,World Cup,USA,True
+2026-07-15,Match 99 Winner,Match 100 Winner,,,World Cup,USA,True
+2026-07-18,Match 101 Loser,Match 102 Loser,,,World Cup,USA,True
+2026-07-19,Match 101 Winner,Match 102 Winner,,,World Cup,USA,True

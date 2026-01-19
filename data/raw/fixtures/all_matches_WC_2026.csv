@@ -1,0 +1,105 @@
+﻿date,home_team,away_team,home_score,away_score,tournament,country,neutral
+11-jun-26,Mexico,South Africa,,,World Cup,Mexico,FALSE
+11-jun-26,South Korea,UEFA Winner D,,,World Cup,Mexico,TRUE
+12-jun-26,Canada,UEFA Winner A,,,World Cup,Canada,FALSE
+12-jun-26,USA,Paraguay,,,World Cup,USA,FALSE
+13-jun-26,Haiti,Scotland,,,World Cup,USA,TRUE
+13-jun-26,Australia,UEFA Winner C,,,World Cup,Canada,TRUE
+13-jun-26,Brazil,Morocco,,,World Cup,USA,TRUE
+13-jun-26,Qatar,Switzerland,,,World Cup,USA,TRUE
+14-jun-26,Ivory Coast,Ecuador,,,World Cup,USA,TRUE
+14-jun-26,Germany,Curaçao,,,World Cup,USA,TRUE
+14-jun-26,Netherlands,Japan,,,World Cup,USA,TRUE
+14-jun-26,UEFA Winner B,Tunisia,,,World Cup,Mexico,TRUE
+15-jun-26,Saudi Arabia,Uruguay,,,World Cup,USA,TRUE
+15-jun-26,Spain,Cape Verde,,,World Cup,USA,TRUE
+15-jun-26,Iran,New Zealand,,,World Cup,USA,TRUE
+15-jun-26,Belgium,Egypt,,,World Cup,USA,TRUE
+16-jun-26,France,Senegal,,,World Cup,USA,TRUE
+16-jun-26,IC Winner 2,Norway,,,World Cup,USA,TRUE
+16-jun-26,Argentina,Algeria,,,World Cup,USA,TRUE
+16-jun-26,Austria,Jordan,,,World Cup,USA,TRUE
+17-jun-26,Ghana,Panama,,,World Cup,Canada,TRUE
+17-jun-26,England,Croatia,,,World Cup,USA,TRUE
+17-jun-26,Portugal,IC Winner 1,,,World Cup,USA,TRUE
+17-jun-26,Uzbekistan,Colombia,,,World Cup,Mexico,TRUE
+18-jun-26,UEFA Winner D,South Africa,,,World Cup,USA,TRUE
+18-jun-26,Switzerland,UEFA Winner A,,,World Cup,USA,TRUE
+18-jun-26,Canada,Qatar,,,World Cup,Canada,FALSE
+18-jun-26,Mexico,South Korea,,,World Cup,Mexico,FALSE
+19-jun-26,Brazil,Haiti,,,World Cup,USA,TRUE
+19-jun-26,Scotland,Morocco,,,World Cup,USA,TRUE
+19-jun-26,UEFA Winner C,Paraguay,,,World Cup,USA,TRUE
+19-jun-26,USA,Australia,,,World Cup,USA,FALSE
+20-jun-26,Germany,Ivory Coast,,,World Cup,Canada,TRUE
+20-jun-26,Ecuador,Curaçao,,,World Cup,USA,TRUE
+20-jun-26,Netherlands,UEFA Winner B,,,World Cup,USA,TRUE
+20-jun-26,Tunisia,Japan,,,World Cup,Mexico,TRUE
+21-jun-26,Uruguay,Cape Verde,,,World Cup,USA,TRUE
+21-jun-26,Spain,Saudi Arabia,,,World Cup,USA,TRUE
+21-jun-26,Belgium,Iran,,,World Cup,USA,TRUE
+21-jun-26,New Zealand,Egypt,,,World Cup,Canada,TRUE
+22-jun-26,Norway,Senegal,,,World Cup,USA,TRUE
+22-jun-26,France,IC Winner 2,,,World Cup,USA,TRUE
+22-jun-26,Argentina,Austria,,,World Cup,USA,TRUE
+22-jun-26,Jordan,Algeria,,,World Cup,USA,TRUE
+23-jun-26,England,Ghana,,,World Cup,USA,TRUE
+23-jun-26,Panama,Croatia,,,World Cup,Canada,TRUE
+23-jun-26,Portugal,Uzbekistan,,,World Cup,USA,TRUE
+23-jun-26,Colombia,IC Winner 1,,,World Cup,Mexico,TRUE
+24-jun-26,Scotland,Brazil,,,World Cup,USA,TRUE
+24-jun-26,Morocco,Haiti,,,World Cup,USA,TRUE
+24-jun-26,Switzerland,Canada,,,World Cup,Canada,FALSE
+24-jun-26,UEFA Winner A,Qatar,,,World Cup,USA,TRUE
+24-jun-26,UEFA Winner D,Mexico,,,World Cup,Mexico,FALSE
+24-jun-26,South Africa,South Korea,,,World Cup,Mexico,TRUE
+25-jun-26,Curaçao,Ivory Coast,,,World Cup,USA,TRUE
+25-jun-26,Ecuador,Germany,,,World Cup,USA,TRUE
+25-jun-26,Japan,UEFA Winner B,,,World Cup,USA,TRUE
+25-jun-26,Tunisia,Netherlands,,,World Cup,USA,TRUE
+25-jun-26,UEFA Winner C,USA,,,World Cup,USA,FALSE
+25-jun-26,Paraguay,Australia,,,World Cup,USA,TRUE
+26-jun-26,Norway,France,,,World Cup,USA,TRUE
+26-jun-26,Senegal,IC Winner 2,,,World Cup,Canada,TRUE
+26-jun-26,Egypt,Iran,,,World Cup,USA,TRUE
+26-jun-26,New Zealand,Belgium,,,World Cup,Canada,TRUE
+26-jun-26,Cape Verde,Saudi Arabia,,,World Cup,USA,TRUE
+26-jun-26,Uruguay,Spain,,,World Cup,Mexico,TRUE
+27-jun-26,Panama,England,,,World Cup,USA,TRUE
+27-jun-26,Croatia,Ghana,,,World Cup,USA,TRUE
+27-jun-26,Algeria,Austria,,,World Cup,USA,TRUE
+27-jun-26,Jordan,Argentina,,,World Cup,USA,TRUE
+27-jun-26,Colombia,Portugal,,,World Cup,USA,TRUE
+27-jun-26,IC Winner 1,Uzbekistan,,,World Cup,USA,TRUE
+28-jun-26,Group A Runners Up,Group B Runners Up,,,World Cup,USA,TRUE
+29-jun-26,Group E Winners,Group A/B/C/D/F 3rd Place,,,World Cup,USA,TRUE
+29-jun-26,Group F Winners,Group C Runners Up,,,World Cup,Mexico,TRUE
+29-jun-26,Group C Winners,Group F Runners Up,,,World Cup,USA,TRUE
+30-jun-26,Group I Winners,Group C/D/F/G/H 3rd Place,,,World Cup,USA,TRUE
+30-jun-26,Group E Runners Up,Group I Runners Up,,,World Cup,USA,TRUE
+30-jun-26,Group A Winners,Group C/E/F/H/I 3rd Place,,,World Cup,Mexico,TRUE
+01-jul-26,Group L Winners,Group E/H/I/J/K 3rd Place,,,World Cup,USA,TRUE
+01-jul-26,Group D Winners,Group B/E/F/I/J 3rd Place,,,World Cup,USA,TRUE
+01-jul-26,Group G Winners,Group A/E/H/I/J 3rd Place,,,World Cup,USA,TRUE
+02-jul-26,Group K Runners Up,Group L Runners Up,,,World Cup,Canada,TRUE
+02-jul-26,Group H Winners,Group J Runners Up,,,World Cup,USA,TRUE
+02-jul-26,Group B Winners,Group E/F/G/I/J 3rd Place,,,World Cup,Canada,TRUE
+03-jul-26,Group J Winners,Group H Runners Up,,,World Cup,USA,TRUE
+03-jul-26,Group K Winners,Group D/E/I/J/L 3rd Place,,,World Cup,USA,TRUE
+03-jul-26,Group D Runners Up,Group G Runners Up,,,World Cup,USA,TRUE
+04-jul-26,Match 74 Winner,Match 77 Winner,,,World Cup,USA,TRUE
+04-jul-26,Match 73 Winner,Match 75 Winner,,,World Cup,USA,TRUE
+05-jul-26,Match 76 Winner,Match 78 Winner,,,World Cup,USA,TRUE
+05-jul-26,Match 79 Winner,Match 80 Winner,,,World Cup,Mexico,TRUE
+06-jul-26,Match 83 Winner,Match 84 Winner,,,World Cup,USA,TRUE
+06-jul-26,Match 81 Winner,Match 82 Winner,,,World Cup,USA,TRUE
+07-jul-26,Match 86 Winner,Match 88 Winner,,,World Cup,USA,TRUE
+07-jul-26,Match 85 Winner,Match 87 Winner,,,World Cup,Canada,TRUE
+09-jul-26,Match 89 Winner,Match 90 Winner,,,World Cup,USA,TRUE
+10-jul-26,Match 93 Winner,Match 94 Winner,,,World Cup,USA,TRUE
+11-jul-26,Match 91 Winner,Match 92 Winner,,,World Cup,USA,TRUE
+11-jul-26,Match 95 Winner,Match 96 Winner,,,World Cup,USA,TRUE
+14-jul-26,Match 97 Winner,Match 98 Winner,,,World Cup,USA,TRUE
+15-jul-26,Match 99 Winner,Match 100 Winner,,,World Cup,USA,TRUE
+18-jul-26,Match 101 Loser,Match 102 Loser,,,World Cup,USA,TRUE
+19-jul-26,Match 101 Winner,Match 102 Winner,,,World Cup,USA,TRUE

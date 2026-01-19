@@ -1,1 +1,0 @@
-# 2026-FIFA-World-Cup-Prediction

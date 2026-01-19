@@ -117,7 +117,7 @@ These generate tables/figures under `reports/` for inclusion in the Streamlit ap
 ### Step 7 — Launch the Streamlit app
 
 ```bash
-streamlit run app.py
+streamlit run Home.py
 ```
 
 ## Notes and design choices

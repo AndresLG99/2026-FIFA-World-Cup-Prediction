@@ -160,7 +160,6 @@ else:
 
 if not slot_df.empty:
     st.subheader("Resolved slots", divider="gray")
-    st.subheader("Resolved slots", divider="gray")
 
     for _, r in slot_df.iterrows():
         render_resolved_slot_line(str(r["slot_name"]), str(r["winner"]))
